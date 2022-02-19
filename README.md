@@ -1,5 +1,5 @@
 # Kyinal-
-Eh this website is for the hack i'm making 
+Eh 
 ![image](https://user-images.githubusercontent.com/86154676/146123296-8e09bc55-923a-4b65-bc84-2a4f5f7a005a.png)
 
 
